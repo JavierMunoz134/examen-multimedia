@@ -1,0 +1,12 @@
+<!-- res/menu/navigation_menu.xml -->
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/navigation_moves"
+        android:title="Movimientos" />
+    <item
+        android:id="@+id/navigation_items"
+        android:title="Ítems" />
+    <item
+        android:id="@+id/navigation_random_item"
+        android:title="Ítem Aleatorio" />
+</menu>
